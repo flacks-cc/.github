@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/2e4a7b8c-9d1f-4e3a-b6c7-8d9e0f1a2b3c">
-    <img alt="Flack's Cut & Connect" src="https://github.com/user-attachments/assets/1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3dc78378-72c8-44b6-b1ea-9e0ccd7150c5">
+    <img alt="Flack's Cut & Connect" src="https://github.com/user-attachments/assets/3dc78378-72c8-44b6-b1ea-9e0ccd7150c5" width="100%">
   </picture>
 </p>
 
