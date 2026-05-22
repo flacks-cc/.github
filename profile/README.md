@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="profile/README.md">🇬🇧 English</a> · <a href="profile/README.es.md">🇪🇸 Español</a>
+  <a href="README.md">🇬🇧 English</a> · <a href="README.es.md">🇪🇸 Español</a>
 </p>
 
 ---
